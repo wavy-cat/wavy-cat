@@ -7,6 +7,6 @@ Joined GitHub on July 4, 2019
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=py,flask,fastapi,go,docker,git,github,githubactions,idea,bash,powershell,discord,linux,postgres,mysql,sqlite,redis,firebase,supabase,aws,cloudflare,workers)" />
+    <img src="https://skillicons.dev/icons?i=py,flask,fastapi,go,docker,git,github,githubactions,idea,bash,powershell,discord,linux,postgres,mysql,sqlite,redis,firebase,supabase,aws,cloudflare,workers&perline=11" />
   </a>
 </p>
