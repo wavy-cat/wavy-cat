@@ -7,7 +7,7 @@ Welcome to the white space of backend developer WavyCat.
 - 👯 I’m looking to collaborate with an artist.
 - 💬 Ask me why generics were added in a dynamically typed language.
 - 📫 How to reach me: check out the links on [my personal page](https://wavycat.ru).
-- ⚡️ Fun fact: WavyCat is a product of your imagination.
+- ⚡️ Fun fact: I have a huge fetish for headphones.
 
 ## Something interesting
 <img src="https://myreadme.vercel.app/api/embed/wavy-cat?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
