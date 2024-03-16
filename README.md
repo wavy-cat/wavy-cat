@@ -5,7 +5,7 @@ Welcome to the white space of backend developer WavyCat.
 
 - 🔭 I’m currently working on projects in this profile.
 - 👯 I’m looking to collaborate with an artist.
-- 💬 Ask me why generics were added in a statically typed language.
+- 💬 Ask me why generics were added in a dynamically typed language.
 - 📫 How to reach me: check out the links on [my personal page](https://wavycat.ru).
 - ⚡️ Fun fact: WavyCat is a product of your imagination.
 
