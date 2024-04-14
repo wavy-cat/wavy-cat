@@ -6,7 +6,7 @@
   <br>
   A digital creature with cat ears, as well as a software engineer.
   <br>
-  <a href="https://wakatime.com/@wavycat" target="_blank">Wakatime</a> · <a href="https://discord.com/users/613651509015740416/" target="_blank">Discord</a> · <a href="https://steamcommunity.com/id/wavycat/" target="_blank">Steam</a>
+  <a href="https://wavycat.ru">Website</a> · <a href="https://wakatime.com/@wavycat">Wakatime</a> · <a href="https://discord.com/users/613651509015740416/">Discord</a> · <a href="https://steamcommunity.com/id/wavycat/">Steam</a>
   </samp>
   <br><br>
 </p>
