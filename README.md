@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sticker.webp" height=180><br>
+  <img src="assets/sticker.webp" height=180><br><br>
   
   <samp>
   <b>Hi there 👋</b>  I'm WavyCat.
