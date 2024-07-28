@@ -4,7 +4,7 @@
   <samp>
     <b>Hi there 👋</b> I'm WavyCat.
     <br>
-    A digital creature with cat ears, as well as a software engineer.
+    A digital creature with cat ears, as well as a <a target="_blank" href="assets/image.png">software engineer</a>.
     <br><br>
     <img height="28" src="assets/python.svg" />
     <img height="28" src="assets/go.svg" />
