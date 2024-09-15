@@ -14,7 +14,7 @@
   <samp>
     <b>Hi there 👋</b> I'm WavyCat.
     <br>
-    And I have no desire to coding anymore.
+    Just a backend developer doing different things.
     <br><br>
     <img height="28" src="assets/python.svg" />
     <img height="28" src="assets/go.svg" />
