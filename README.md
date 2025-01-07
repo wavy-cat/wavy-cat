@@ -14,14 +14,7 @@
   <samp>
     <b>Hi there 👋</b> I'm WavyCat.
     <br>
-    Just a backend developer doing different things.
-    <br><br>
-    <img height="28" src="assets/python.svg" />
-    <img height="28" src="assets/go.svg" />
-    <img height="28" src="assets/kotlin.svg" />
-    <img height="28" src="assets/intellijidea.svg" />
-    <img height="28" src="assets/docker.svg" />
-    <img height="28" src="assets/ubuntu.svg" />
+    Just a software engineer doing different things.
   </samp>
   <br>
 </p>
