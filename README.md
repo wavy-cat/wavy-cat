@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/shark.png" height=200><br>
+  <img src="assets/book-idle-alpha.gif">
 <!--         <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=C6A0F6&vCenter=true&repeat=false&width=160&height=18&lines=.%E2%95%B1%7C%60" alt="ascii-cat-1" />
         <br>
         <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=C6A0F6&center=false&vCenter=true&repeat=false&width=160&height=18&lines=(%60+++-++7" alt="ascii-cat-2" />
@@ -11,11 +11,11 @@
         <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=C6A0F6&vCenter=true&repeat=false&width=160&height=18&lines=meow+~" alt="ascii-cat-5" />
         <br> -->
   
-  <samp>
+  <!-- <samp>
     <br>
     <b>Hi there 👋</b> I'm WavyCat.
     <br>
     Just a software engineer doing different things.
-  </samp>
+  </samp> -->
   <br>
 </p>
